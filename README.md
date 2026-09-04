@@ -22,3 +22,7 @@ Youngdoo Jeong¹, Kione Kim², Yonghee Lee¹
 
 원본 데이터는 서울시·국민건강보험공단과의 가명정보 처리 협약에 따른 것으로 비공개이며,
 이 저장소에는 논문·발표자료만 포함되어 있습니다.
+
+## Acknowledgement
+
+This repository was developed with support from the 서울시립대학교 데이터 사이언스 플러스 차세대 융합인재 양성사업단 – http://dsplus.uos.ac.kr/
